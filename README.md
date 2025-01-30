@@ -136,8 +136,7 @@ Rather than hosting the addon locally, you can make use of some services to depl
 
 I would recommend using Hugging Face over the other options, it is fast and is still easy to set up.
 
-#### Hugging Face
-
+#### Hugging Face instance
 This addon can be deployed as a [Hugging Face](https://huggingface.co/) space.
 
 > [!IMPORTANT]
